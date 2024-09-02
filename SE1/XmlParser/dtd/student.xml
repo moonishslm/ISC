@@ -1,0 +1,7 @@
+<!DOCTYPE Student SYSTEM "student.dtd">
+<Student>
+    <firstName>Mahshad</firstName>
+    <lastName>Salimi</lastName>
+    <studentId>1</studentId>
+    <age>5</age>
+</Student>

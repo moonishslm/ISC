@@ -1,0 +1,7 @@
+<!DOCTYPE Teacher SYSTEM "teacher.dtd">
+<Teacher>
+    <firstName>Farbod</firstName>
+    <lastName>Nazari</lastName>
+    <teacherId>1</teacherId>
+    <age>75</age>
+</Teacher>
